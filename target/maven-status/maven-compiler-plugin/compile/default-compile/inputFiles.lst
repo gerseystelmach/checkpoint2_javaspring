@@ -1,0 +1,12 @@
+/home/gerseystelmach/Documentos/JavaProjects/checkpoint2_javaspring/src/main/java/com/example/demo/repository/DestinationRepository.java
+/home/gerseystelmach/Documentos/JavaProjects/checkpoint2_javaspring/src/main/java/com/example/demo/entity/CountryTravel.java
+/home/gerseystelmach/Documentos/JavaProjects/checkpoint2_javaspring/src/main/java/com/example/demo/entity/Destination.java
+/home/gerseystelmach/Documentos/JavaProjects/checkpoint2_javaspring/src/main/java/com/example/demo/controller/IndexController.java
+/home/gerseystelmach/Documentos/JavaProjects/checkpoint2_javaspring/src/main/java/com/example/demo/service/UserDetailsServiceImpl.java
+/home/gerseystelmach/Documentos/JavaProjects/checkpoint2_javaspring/src/main/java/com/example/demo/controller/AdminController.java
+/home/gerseystelmach/Documentos/JavaProjects/checkpoint2_javaspring/src/main/java/com/example/demo/entity/MyUserDetails.java
+/home/gerseystelmach/Documentos/JavaProjects/checkpoint2_javaspring/src/main/java/com/example/demo/repository/UserRepository.java
+/home/gerseystelmach/Documentos/JavaProjects/checkpoint2_javaspring/src/main/java/com/example/demo/config/WebSecurityConfig.java
+/home/gerseystelmach/Documentos/JavaProjects/checkpoint2_javaspring/src/main/java/com/example/demo/DemoApplication.java
+/home/gerseystelmach/Documentos/JavaProjects/checkpoint2_javaspring/src/main/java/com/example/demo/repository/CountryTravelRepository.java
+/home/gerseystelmach/Documentos/JavaProjects/checkpoint2_javaspring/src/main/java/com/example/demo/entity/User.java
